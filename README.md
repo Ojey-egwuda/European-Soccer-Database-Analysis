@@ -1,7 +1,7 @@
 INTRODUCTION
 
 
-In this project, We will analyze data of 11 European Professsional leagues from seasons 2008 - 2016.
+In this project, We will analyze data of 11 European Professional leagues from seasons 2008 - 2016.
 
 The Dataset Includes;
 
